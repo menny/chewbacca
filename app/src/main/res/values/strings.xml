@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chewbacca</string>
+    <string name="add_schedule_item">Add schedule item</string>
+    <string name="take_photo">Take photo</string>
+    <string name="cancel_take_photo">Cancel</string>
+    <string name="restart_schedule">Restart schedule</string>
+    <string name="item_took_time_duration">Took %s</string>
+</resources>

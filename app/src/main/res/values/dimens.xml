@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="main_columns_padding">16dp</dimen>
+    <dimen name="global_content_padding_side">4dp</dimen>
+</resources>

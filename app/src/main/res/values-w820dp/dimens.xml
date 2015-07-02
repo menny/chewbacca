@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="global_content_padding_side">8dp</dimen>
+</resources>
